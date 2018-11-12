@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.productImage{
+  width: 80%;
+}
+
+.row{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#Prod_specifications{
+  margin-top: 10%;
+}
+
+.detail{
+  padding-bottom: 5px;
+}
+
+.container{
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+footer, .push {
+  height: 50px;
+}
+
+.agregar_prod {
+  cursor: pointer;
+}

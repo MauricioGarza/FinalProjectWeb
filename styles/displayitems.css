@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.imageProducts{
+  width: 80px;
+  height: 80px;
+}
+
+.col-md-3{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.imageProducts{
+  cursor: pointer;
+}
+
+.nombreProd{
+  cursor: pointer;
+}
+
+.col-md-4{
+  text-align: center;
+}
+
+hr{
+  width: 50%;
+  border-width: 3px;
+}
+
+.col-md-10{
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+.col-md-2{
+  text-align: center;
+  border-right-color: black;
+  border-right-width: 1px;
+  border-right-style: solid;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+ul{
+  list-style-type: none;
+  padding: 3px;
+  text-align:left;
+}
+li{
+  margin-top: 5px;
+}
+
+.selected{
+  background-color: #D3D3D3;
+}
+
+footer, .push {
+  height: 100px;
+}
